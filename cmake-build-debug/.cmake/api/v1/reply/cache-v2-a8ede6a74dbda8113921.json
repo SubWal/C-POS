@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "j:/applied programming/C/cmake-build-debug"
+			"value" : "j:/applied programming/C++POSsystem/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "J:/applied programming/C/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "J:/applied programming/C++POSsystem/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "J:/applied programming/C"
+			"value" : "J:/applied programming/C++POSsystem"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1279,7 +1279,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "J:/applied programming/C/cmake-build-debug"
+			"value" : "J:/applied programming/C++POSsystem/cmake-build-debug"
 		},
 		{
 			"name" : "C_IS_TOP_LEVEL",
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "J:/applied programming/C"
+			"value" : "J:/applied programming/C++POSsystem"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

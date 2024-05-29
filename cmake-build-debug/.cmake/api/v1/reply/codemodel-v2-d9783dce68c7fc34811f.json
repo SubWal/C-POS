@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "J:/applied programming/C/cmake-build-debug",
-		"source" : "J:/applied programming/C"
+		"build" : "J:/applied programming/C++POSsystem/cmake-build-debug",
+		"source" : "J:/applied programming/C++POSsystem"
 	},
 	"version" : 
 	{
